@@ -1,3 +1,3 @@
 
 # Excel Skills for Business
-![Excel From Coursera](Images/Excel_from_Coursera.pdf)
+(Images/Excel_from_Coursera.pdf)
