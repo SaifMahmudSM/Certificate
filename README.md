@@ -1,3 +1,16 @@
 
 # Excel Skills for Business
-[](Images/Excel_from_Coursera.pdf)
+![excel cousrera](Images/excel_from_coursera.png)
+
+# Excel
+![excel datacamp](Images/excel_datacamp.png)
+
+# Google Sheet  
+![google_sheet dataCamp](Images/google_sheet_datacamp.png)
+
+# SQL
+![sql dataCamp](Images/sql_datacamp.png)
+
+# SQL Basic 
+![sql_basic hackerRank](Images/sql_basic_hackerrank.png)
+
